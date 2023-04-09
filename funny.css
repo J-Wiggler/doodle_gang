@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(24, 24, 24);
+}
+div.intro {
+    align-items: center;
+    padding-bottom: 0px;
+    padding-left: 64px;
+    padding-right: 64px;
+}
+div.img {
+    align-items: center;
+    display: flex;
+    padding-bottom: 0px;
+    padding-left: 312px;
+    padding-right: 64px;
+}
+h1.head {
+    color: rgb(169,169,169);
+    margin-top: 32px;
+    text-align: center;
+    font-size: 42px;
+}
+h4.head {
+    padding-top: 16px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 32px;
+    font-size: 20pt;
+    color: rgb(95, 255, 0);
+    text-align: justify;
+}
+
+h6.body {
+    border: 2px solid rgb(94, 255, 0); 
+    padding-top: 32px;
+    padding-bottom: 32px;
+    padding-left: 32px;
+    padding-right: 32px;
+    font-size: 18pt;
+    color: rgb(169, 169, 169);
+    text-align: justify;
+}
+img.default {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 33%;
+    width: 33%;
+}
+img.small {
+    display: inline-block;
+    align-self: center;
+    padding-top: 16px;
+    margin-left: auto;
+    margin-right: 32px;
+    height: 60%;
+    width: 60%;
+
+}
+p.label {
+    font-size: 6pt;
+    margin-left: auto;
+    margin-right: 0px;
+    color: rgb(169, 169, 169);
+}
+p.quote {
+    font-size: 12pt;
+    text-align: center;
+    color: rgb(169, 169, 169);
+    margin-bottom: 12pt;
+}
