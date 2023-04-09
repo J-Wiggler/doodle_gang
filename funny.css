@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(24, 24, 24);
+    background-color: rgb(24, 24, 48);
 }
 div.intro {
     align-items: center;
@@ -26,12 +26,12 @@ h4.head {
     padding-left: 16px;
     padding-right: 32px;
     font-size: 20pt;
-    color: rgb(95, 255, 0);
+    color: rgb(200, 200, 200);
     text-align: justify;
 }
 
 h6.body {
-    border: 2px solid rgb(94, 255, 0); 
+    border: 2px solid rgb(200, 200, 200); 
     padding-top: 32px;
     padding-bottom: 32px;
     padding-left: 32px;
