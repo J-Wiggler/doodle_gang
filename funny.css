@@ -40,6 +40,13 @@ h6.body {
     color: rgb(169, 169, 169);
     text-align: justify;
 }
+img.big {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 75%;
+    width: 75%;
+}
 img.default {
     display: block;
     margin-left: auto;
